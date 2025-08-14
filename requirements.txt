@@ -1,0 +1,14 @@
+openai
+pyclustering
+transformers
+hdbscan
+kmedoids
+scikit-learn
+mplcursors
+spacy
+gspread
+seaborn
+plotly
+pandas
+openpyxl
+umap-learn
