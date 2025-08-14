@@ -1,4 +1,4 @@
-This respository contains the code written for disambiguation and clustering of the questions from the Boder transcripts.
+This respository contains the code for disambiguation and clustering of the questions from the Boder transcripts.
 It primarily pertains to the work done for the 2025 Undergraduate Research Week.
 
 After cloning the repository, create a .env file with the following contents:
